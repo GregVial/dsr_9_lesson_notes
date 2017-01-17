@@ -1,1 +1,2 @@
-# dsr_9_lesson_notes
+Lesson notes for Data Science Retreat
+Berlin, batch 9

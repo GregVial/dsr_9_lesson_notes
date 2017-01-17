@@ -1,0 +1,2 @@
+http://www.scipy-lectures.org/intro/language/python_language.html
+https://github.com/utstikkar/IntroPythonForDS#python-basics
