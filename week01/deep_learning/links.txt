@@ -1,0 +1,3 @@
+http://www.cloudcv.org/vqa/
+http://playground.tensorflow.org
+https://keras.io/
