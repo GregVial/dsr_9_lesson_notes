@@ -1,1 +1,8 @@
 https://github.com/SteveUpton/dsr-microservices-lab
+
+http://www.slideshare.net/SteveUpton/dsr-microservices-day-1-part-1
+http://www.slideshare.net/SteveUpton/dsr-microservices-day-1-part-2
+http://www.slideshare.net/SteveUpton/dsr-microservices-day-2
+http://www.slideshare.net/SteveUpton/dsr-testing-part-1  
+http://www.slideshare.net/SteveUpton/dsr-testing-part-2
+
