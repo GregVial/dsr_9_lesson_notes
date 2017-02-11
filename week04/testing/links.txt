@@ -1,0 +1,5 @@
+https://github.com/SteveUpton/dsr-testing-lab
+
+http://www.slideshare.net/SteveUpton/dsr-testing-part-1  
+http://www.slideshare.net/SteveUpton/dsr-testing-part-2
+
