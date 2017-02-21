@@ -4,22 +4,29 @@ import json
 from sklearn.linear_model import LogisticRegression
 from sklearn.datasets import make_classification
 import numpy as np
+import pandas as pd
 from _datetime import datetime
+from io import StringIO
 
 KAFKA_SERVER = "localhost:9092"
 
+def serialize(msg):
+	try:
+		encoded_msg = bytes(json.dumps(msg),'utf-8')
+	except Exception as e:
+		print(repr(e))
+	else:
+		return encoded_msg
+
 producer = KafkaProducer(bootstrap_servers=KAFKA_SERVER,
                          client_id="Classification Producer",
-                         compression_type="gzip",# Better to compress, json is very inefficient
-                         value_serializer=lambda m: bytes(json.dumps(m), 'utf-8'))
+#			 compression_type="gzip",
+			value_serializer=lambda m: serialize(m)
+			)
 
 
 while True:
-#	X = np.random.rand(200)
-#	X = X.reshape(-1,2)
-#	y = np.random.binomial(1,.1,100)
-# Simple equivalent
-	X,y = make_classification(flip_y=.1)
+	X,y = make_classification(n_samples=10,n_features=5,flip_y=.1)
 
 	lr = LogisticRegression()
 	lr.fit(X,y)
@@ -30,11 +37,12 @@ while True:
 	for i ,row in enumerate(X):
 		data_point={
 			'x': row.tolist(),
-			'label': y[i]
+			'label': int(y[i])
 		}
 		rows.append(data_point)
-	msg = {"Score" : score}#,
-#	       "Data" : rows}
-	producer.send("test-topic",msg)
-	sleep(0.5)
+
+	msg = {"rows" : rows,
+	      "score" : score}
+	producer.send("class-topic",msg)
+	sleep(10)
 
