@@ -1,2 +1,3 @@
 https://www.eyeem.com/tech : image labeling
 bit.ly/1sYCMNh : creating an EC2 instance
+playground.tensorflow.org Neural network visual
