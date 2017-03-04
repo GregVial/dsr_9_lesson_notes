@@ -1,0 +1,4 @@
+https://www.eyeem.com/tech : image labeling
+bit.ly/1sYCMNh : creating an EC2 instance
+playground.tensorflow.org Neural network visual
+http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130
