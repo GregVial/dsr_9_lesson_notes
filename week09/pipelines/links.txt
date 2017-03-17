@@ -1,0 +1,2 @@
+https://twitter.github.io/scala_school/ Scala school
+https://www.jetbrains.com/idea/         Jetbrains, IDE for scala

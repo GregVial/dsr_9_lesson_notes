@@ -1,0 +1,331 @@
+[0m[[0minfo[0m] [0mRunning App [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.avro/avro-mapred/jars/avro-mapred-1.7.7-hadoop2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.avro/avro-ipc/jars/avro-ipc-1.7.7-tests.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.avro/avro-ipc/jars/avro-ipc-1.7.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.codehaus.jackson/jackson-core-asl/1.9.13/jars/jackson-core-asl.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.codehaus.jackson/jackson-mapper-asl/1.9.13/jars/jackson-mapper-asl.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.xerial.snappy/snappy-java/bundles/snappy-java-1.1.2.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.apache.commons/commons-compress/1.4.1/jars/commons-compress.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.tukaani/xz/1.0/jars/xz.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.slf4j/slf4j-api/1.7.16/jars/slf4j-api.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.twitter/chill_2.11/jars/chill_2.11-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-library/2.11.8/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.twitter/chill-java/jars/chill-java-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.esotericsoftware/kryo-shaded/bundles/kryo-shaded-3.0.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.esotericsoftware/minlog/bundles/minlog-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.objenesis/objenesis/jars/objenesis-2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.xbean/xbean-asm5-shaded/bundles/xbean-asm5-shaded-4.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-client/jars/hadoop-client-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-annotations/jars/hadoop-annotations-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/com.google.code.findbugs/jsr305/1.3.9/jars/jsr305.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-cli/commons-cli/jars/commons-cli-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.commons/commons-math/jars/commons-math-2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/xmlenc/xmlenc/jars/xmlenc-0.52.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-httpclient/commons-httpclient/jars/commons-httpclient-3.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-net/commons-net/jars/commons-net-2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-configuration/commons-configuration/jars/commons-configuration-1.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/commons-collections/commons-collections/3.2.1/jars/commons-collections.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-digester/commons-digester/jars/commons-digester-1.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/commons-beanutils/commons-beanutils-core/jars/commons-beanutils-core-1.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/com.google.protobuf/protobuf-java/2.5.0/bundles/protobuf-java.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-auth/jars/hadoop-auth-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/jars/hadoop-hdfs-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.mortbay.jetty/jetty-util/jars/jetty-util-6.1.26.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-app/jars/hadoop-mapreduce-client-app-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-common/jars/hadoop-mapreduce-client-common-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-yarn-common/jars/hadoop-yarn-common-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-yarn-api/jars/hadoop-yarn-api-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.7.16.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.google.inject/guice/jars/guice-3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/javax.inject/javax.inject/1/jars/javax.inject.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.sonatype.sisu.inject/cglib/jars/cglib-2.2.1-v20090111.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-yarn-client/jars/hadoop-yarn-client-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-yarn-server-common/jars/hadoop-yarn-server-common-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-shuffle/jars/hadoop-mapreduce-client-shuffle-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-jobclient/jars/hadoop-mapreduce-client-jobclient-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-launcher_2.11/jars/spark-launcher_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-tags_2.11/jars/spark-tags_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.scalatest/scalatest_2.11/2.2.6/bundles/scalatest_2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-reflect/2.11.8/jars/scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.spark-project.spark/unused/jars/unused-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-network-common_2.11/jars/spark-network-common_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/io.netty/netty-all/jars/netty-all-4.0.29.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.fusesource.leveldbjni/leveldbjni-all/bundles/leveldbjni-all-1.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.6.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.6.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-network-shuffle_2.11/jars/spark-network-shuffle_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-unsafe_2.11/jars/spark-unsafe_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.java.dev.jets3t/jets3t/jars/jets3t-0.7.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.curator/curator-recipes/bundles/curator-recipes-2.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.curator/curator-framework/bundles/curator-framework-2.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.curator/curator-client/bundles/curator-client-2.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.zookeeper/zookeeper/jars/zookeeper-3.4.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.slf4j/jul-to-slf4j/1.7.16/jars/jul-to-slf4j.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.slf4j/jcl-over-slf4j/1.7.16/jars/jcl-over-slf4j.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.ning/compress-lzf/bundles/compress-lzf-1.0.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.jpountz.lz4/lz4/jars/lz4-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.roaringbitmap/RoaringBitmap/bundles/RoaringBitmap-0.5.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/com.thoughtworks.paranamer/paranamer/2.6/jars/paranamer.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-compiler/2.11.8/jars/scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang.modules/scala-xml_2.11/1.0.4/bundles/scala-xml_2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/bundles/scala-parser-combinators_2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.core/jersey-client/jars/jersey-client-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/javax.ws.rs/javax.ws.rs-api/jars/javax.ws.rs-api-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.core/jersey-common/jars/jersey-common-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/javax.annotation/javax.annotation-api/jars/javax.annotation-api-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.bundles.repackaged/jersey-guava/bundles/jersey-guava-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.hk2/hk2-api/jars/hk2-api-2.4.0-b34.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.hk2/hk2-utils/jars/hk2-utils-2.4.0-b34.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.hk2.external/aopalliance-repackaged/jars/aopalliance-repackaged-2.4.0-b34.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.hk2.external/javax.inject/jars/javax.inject-2.4.0-b34.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.hk2/hk2-locator/jars/hk2-locator-2.4.0-b34.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/org.javassist/javassist/3.18.1-GA/bundles/javassist.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.hk2/osgi-resource-locator/jars/osgi-resource-locator-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.core/jersey-server/jars/jersey-server-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.media/jersey-media-jaxb/jars/jersey-media-jaxb-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.containers/jersey-container-servlet/jars/jersey-container-servlet-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.glassfish.jersey.containers/jersey-container-servlet-core/jars/jersey-container-servlet-core-2.22.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.mesos/mesos/jars/mesos-0.21.1-shaded-protobuf.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/io.netty/netty/3.8.0.Final/bundles/netty.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.clearspring.analytics/stream/jars/stream-2.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/io.dropwizard.metrics/metrics-core/bundles/metrics-core-3.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/io.dropwizard.metrics/metrics-jvm/bundles/metrics-jvm-3.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/io.dropwizard.metrics/metrics-json/bundles/metrics-json-3.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/io.dropwizard.metrics/metrics-graphite/bundles/metrics-graphite-3.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.6.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-paranamer/bundles/jackson-module-paranamer-2.6.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.ivy/ivy/jars/ivy-2.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/oro/oro/jars/oro-2.0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.razorvine/pyrolite/jars/pyrolite-4.13.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.sf.py4j/py4j/jars/py4j-0.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-sketch_2.11/jars/spark-sketch_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.codehaus.janino/janino/jars/janino-2.7.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.codehaus.janino/commons-compiler/jars/commons-compiler-2.7.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.antlr/antlr4-runtime/jars/antlr4-runtime-4.5.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-column/jars/parquet-column-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-common/jars/parquet-common-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-encoding/jars/parquet-encoding-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-generator/jars/parquet-generator-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-hadoop/jars/parquet-hadoop-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-format/jars/parquet-format-2.3.0-incubating.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.parquet/parquet-jackson/jars/parquet-jackson-1.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.github.fommil.netlib/core/jars/core-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.sourceforge.f2j/arpack_combined_all/jars/arpack_combined_all-0.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.sourceforge.f2j/arpack_combined_all/jars/arpack_combined_all-0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.apache.spark/spark-mllib-local_2.11/jars/spark-mllib-local_2.11-2.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.scalanlp/breeze-macros_2.11/jars/breeze-macros_2.11-0.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/net.sf.opencsv/opencsv/jars/opencsv-2.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.github.rwl/jtransforms/jars/jtransforms-2.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.spire-math/spire_2.11/jars/spire_2.11-0.7.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.spire-math/spire-macros_2.11/jars/spire-macros_2.11-0.7.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.jpmml/pmml-model/jars/pmml-model-1.2.15.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/org.jpmml/pmml-schema/jars/pmml-schema-1.2.15.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pawel/activator/activator-dist-1.3.10/repository/com.typesafe/config/1.2.1/bundles/config.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-ask-thread-pool-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-ask-thread-pool-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-slave-async-thread-pool-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-slave-async-thread-pool-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread threadDeathWatcher-2-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted threadDeathWatcher-2-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-102-selector-ServerConnectorManager@7202e9a0/0[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-102-selector-ServerConnectorManager@7202e9a0/0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread heartbeat-receiver-event-loop-thread[0m
+[0m[[0mdebug[0m] [0m	Interrupted heartbeat-receiver-event-loop-thread[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-108[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-108[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-103-selector-ServerConnectorManager@7202e9a0/1[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-103-selector-ServerConnectorManager@7202e9a0/1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-106-acceptor-0@1682c65e-ServerConnector@18452afe{HTTP/1.1}{0.0.0.0:4040}[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-106-acceptor-0@1682c65e-ServerConnector@18452afe{HTTP/1.1}{0.0.0.0:4040}[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread driver-heartbeater[0m
+[0m[[0mdebug[0m] [0m	Interrupted driver-heartbeater[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dag-scheduler-event-loop[0m
+[0m[[0mdebug[0m] [0m	Interrupted dag-scheduler-event-loop[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-ask-thread-pool-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-ask-thread-pool-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread context-cleaner-periodic-gc[0m
+[0m[[0mdebug[0m] [0m	Interrupted context-cleaner-periodic-gc[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-104-selector-ServerConnectorManager@7202e9a0/2[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-104-selector-ServerConnectorManager@7202e9a0/2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread netty-rpc-env-timeout[0m
+[0m[[0mdebug[0m] [0m	Interrupted netty-rpc-env-timeout[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-slave-async-thread-pool-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-slave-async-thread-pool-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-slave-async-thread-pool-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-slave-async-thread-pool-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkListenerBus[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkListenerBus[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-slave-async-thread-pool-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-slave-async-thread-pool-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-105-selector-ServerConnectorManager@7202e9a0/3[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-105-selector-ServerConnectorManager@7202e9a0/3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Spark Context Cleaner[0m
+[0m[[0mdebug[0m] [0m	Interrupted Spark Context Cleaner[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread block-manager-slave-async-thread-pool-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted block-manager-slave-async-thread-pool-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-107[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-107[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-109[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-109[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Timer-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted Timer-0[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

@@ -1,0 +1,8 @@
+# download and install miniconda
+# http://conda.pydata.org/miniconda.html
+
+# import environment
+conda env create -f environment.yml
+
+# command to export envinronment
+# conda env export > environment.yml

@@ -1,0 +1,390 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$1.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$2.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$takeFirst$1.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$takeFirst$2.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$typecreator1$1.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$typecreator2$1.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineExercise$.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineExercise.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineSolution$.class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineSolution.class
+binary dependencies:
+14 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/activator/activator-dist-1.3.10/repository/com.typesafe/config/1.2.1/bundles/config.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-library/2.11.8/jars/scala-library.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-reflect/2.11.8/jars/scala-reflect.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /usr/java/jdk1.8.0_77/jre/lib/rt.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> /home/pawel/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> /home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-library/2.11.8/jars/scala-library.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> /usr/java/jdk1.8.0_77/jre/lib/rt.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> /home/pawel/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> /home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-library/2.11.8/jars/scala-library.jar
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> /usr/java/jdk1.8.0_77/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> /home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$$anonfun$1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$$anonfun$2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$$anonfun$takeFirst$1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$$anonfun$takeFirst$2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$$typecreator1$1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App$$typecreator2$1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> PipelineExercise
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> PipelineExercise$
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> PipelineSolution
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> PipelineSolution$
+used names:
+244 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> !=
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> $m
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> $m$untyped
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> $typecreator1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> $typecreator2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> $u
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> &&
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> <byname>
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> <init>
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> <repeated>
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ==
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ?0
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> A
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> A1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Any
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> AnyRef
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> App
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Array
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Boolean
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Builder
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ClassLoader
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ClassSymbol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ClassTag
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Column
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Config
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ConfigFactory
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> DataFrame
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> DataFrameReader
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Dataset
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Double
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Function1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> IndexedSeq
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Int
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Internal
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> JavaUniverse
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> List
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Long
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> MatchError
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Mirror
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ModuleSymbol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> MulticlassClassificationEvaluator
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Nil
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Nothing
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Object
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Option
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Pipeline
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> PipelineModel
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> PipelineSolution
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Predef
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> RDD
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> RT
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ReificationSupportApi
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> RootClass
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Row
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Seq
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> SingleType
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Singleton
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> SparkContext
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> SparkSession
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> String
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> StringContext
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Symbol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> T
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> T0
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> T1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> T2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ThisType
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Try
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Tuple2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Type
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> TypeCreator
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> TypeRef
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> TypeSymbol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> TypeTag
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> U
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Unit
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> Universe
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> UserDefinedFunction
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> _$1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> _$2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> _$3
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> _$7
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> _1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> _2
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> apache
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> appName
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> apply
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> asInstanceOf
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> asModule
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> builder
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> cache
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> col
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> collect
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> collection
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> com
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> config
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> count
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> createPipeline
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> df
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> dfTe
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> dfTeClean
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> dfTePred
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> dfTr
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> dfTrPred
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> evaluate
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> evaluation
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> evaluator
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> filter
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> fit
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> functions
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> get
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> getAs
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> getClass
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> getClassLoader
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> getOrCreate
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> getOrElse
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> head
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> immutable
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> internal
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> isEmpty
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> isin
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> json
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> lengthCompare
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> load
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> map
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> master
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> materializeClassTag
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> materializeTypeTag
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> ml
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> moduleClass
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> org
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> package
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> pipeline
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> pipelineFit
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> printSchema
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> println
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> randomSplit
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> rdd
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> read
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> reflect
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> reificationSupport
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> repartition
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> row
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> runtime
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> runtimeMirror
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> s
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> scala
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> select
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> selectType
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> setLabelCol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> setLogLevel
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> setMetricName
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> setPredictionCol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> spark
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> sparkContext
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> sql
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> staticModule
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> staticPackage
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> takeFirst
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> takeFirstUDF
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> thisPrefix
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> trainingLabels
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> transform
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> typesafe
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> udf
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> unapplySeq
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> unary_!
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> unchecked
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> universe
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> util
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> withColumn
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> x
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> <init>
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> AnyRef
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> CountVectorizer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> LogisticRegression
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> Object
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> OneVsRest
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> Pipeline
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> PipelineExercise
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> RegexTokenizer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> StopWordsRemover
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> StringIndexer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> apache
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> classification
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> feature
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> ml
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> org
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> scala
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> spark
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> <init>
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> <repeated>
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Any
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> AnyRef
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Array
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Boolean
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Class
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> ClassTag
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> CountVectorizer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Double
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Int
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> LogisticRegression
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> NaiveBayes
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Nothing
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Object
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> OneVsRest
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Pipeline
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> PipelineSolution
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> PipelineStage
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> Predef
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> RegexTokenizer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> StopWordsRemover
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> String
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> StringIndexer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> T
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> _$1
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> _$7
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> apache
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> apply
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> classification
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> countVectorizer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> feature
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> getStopWords
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> materializeClassTag
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> ml
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> nb
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> org
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> package
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> pipeline
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> scala
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setGaps
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setInputCol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setMinDF
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setOutputCol
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setPattern
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setStages
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setStopWords
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setToLowercase
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> setVocabSize
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> spark
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> stopWordsRemover
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> stringindexer
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> tokenizer
+product stamps:
+12 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$1.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$2.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$takeFirst$1.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$anonfun$takeFirst$2.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$typecreator1$1.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$$typecreator2$1.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App$.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/App.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineExercise$.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineExercise.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineSolution$.class -> lastModified(1489311315000)
+/home/pawel/Dropbox/DSR/v6/spark-scala/target/scala-2.11/classes/PipelineSolution.class -> lastModified(1489311315000)
+source stamps:
+3 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> hash(86e82935cb3611286f2d556f190e6935d25d9c84)
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> hash(d81995f4d7ce7356fd8f2d1f517947219a7a0b9d)
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> hash(74eab9b92c1e05a02160425a4fb590448f3b167a)
+binary stamps:
+8 items
+/home/pawel/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> lastModified(1478576760000)
+/home/pawel/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> lastModified(1478576545000)
+/home/pawel/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar -> lastModified(1478576957000)
+/home/pawel/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> lastModified(1478576896000)
+/home/pawel/activator/activator-dist-1.3.10/repository/com.typesafe/config/1.2.1/bundles/config.jar -> lastModified(1461326382000)
+/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-library/2.11.8/jars/scala-library.jar -> lastModified(1461326382000)
+/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-reflect/2.11.8/jars/scala-reflect.jar -> lastModified(1461326382000)
+/usr/java/jdk1.8.0_77/jre/lib/rt.jar -> lastModified(1458943327000)
+class names:
+8 items
+/home/pawel/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> org.apache.spark.sql.Row
+/home/pawel/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> org.apache.spark.rdd.RDD
+/home/pawel/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar -> org.apache.spark.ml.feature.RegexTokenizer$
+/home/pawel/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> org.apache.spark.sql.SparkSession$
+/home/pawel/activator/activator-dist-1.3.10/repository/com.typesafe/config/1.2.1/bundles/config.jar -> com.typesafe.config.ConfigFactory
+/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-library/2.11.8/jars/scala-library.jar -> scala.Int
+/home/pawel/activator/activator-dist-1.3.10/repository/org.scala-lang/scala-reflect/2.11.8/jars/scala-reflect.jar -> scala.reflect.api.TypeCreator
+/usr/java/jdk1.8.0_77/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwL30/dQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrdIKCXQABm5vdGlmeXNxAH4ADPRs6U90AAR3YWl0c3EAfgAM0YOAVnQADSRhc0luc3RhbmNlT2ZzcQB+AAz2E9BudAAGZXF1YWxzc3EAfgAMO8GhGXQADGFzSW5zdGFuY2VPZnNxAH4ADFUhBeV0AANBcHBzcQB+AAxo1gfTdAAMc3luY2hyb25pemVkc3EAfgAMPPLu0XQADSRpc0luc3RhbmNlT2ZzcQB+AAyj2JqAdAAEbWFpbnNxAH4ADFDm3hN0AAlub3RpZnlBbGxzcQB+AAyRKLGzdAAJdGFrZUZpcnN0c3EAfgAMpikQQ3QADGlzSW5zdGFuY2VPZnNxAH4ADPoef4V0AAI9PXNxAH4ADFGQRUF0AAx0YWtlRmlyc3RVREZzcQB+AAyV8UkNdAAFY2xvbmVzcQB+AAzTSoCwdAAIdG9TdHJpbmdzcQB+AAxUOZhwdAACIT1zcQB+AAy3gbdidAAIZ2V0Q2xhc3NzcQB+AAyiBeEIdAACbmVzcQB+AAzsyBtNdAACZXFzcQB+AAwfuy2wdAACIyNzcQB+AAzXL3rfdAAIZmluYWxpemVzcQB+AAwma/q4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBhc3EAfgBcdXEAfgBAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBGcQB+AE91cQB+AFAAAAAAc3EAfgBSAHEAfgAfdXEAfgBUAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AV3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AcFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYHNxAH4Ab3QABUFycmF5cQB+AHV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ab3QABlN0cmluZ3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHt0AARqYXZhc3EAfgB7dAAEbGFuZ3EAfgCAc3EAfgBcdXEAfgBAAAAAAHNxAH4AXHVxAH4AlAAAAAJzcQB+AG90AAZPYmplY3RxAH4AmHNxAH4Ab3QAA0FueXEAfgB1dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrB3yWMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9ob21lL3Bhd2VsL0Ryb3Bib3gvRFNSL3Y2L3NwYXJrLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSG6Ck1yzYRKG8tVW8ZDmk10l2chA==
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRPM+tgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwygyybnQABm5vdGlmeXNxAH4ADDmQxYx0AAR3YWl0c3EAfgAMhdZRP3QADSRhc0luc3RhbmNlT2ZzcQB+AAzAQ2qldAAGZXF1YWxzc3EAfgAM+N8qvXQADGFzSW5zdGFuY2VPZnNxAH4ADHHGSDx0AAxzeW5jaHJvbml6ZWRzcQB+AAzfF3v1dAANJGlzSW5zdGFuY2VPZnNxAH4ADLZE3zx0ABBQaXBlbGluZUV4ZXJjaXNlc3EAfgAMKUBJaXQACW5vdGlmeUFsbHNxAH4ADCmfiRV0AAxpc0luc3RhbmNlT2ZzcQB+AAxsJPsPdAAOY3JlYXRlUGlwZWxpbmVzcQB+AAzCbc/YdAACPT1zcQB+AAxrceDvdAAFY2xvbmVzcQB+AAxcL8w1dAAIdG9TdHJpbmdzcQB+AAyl4ER/dAACIT1zcQB+AAykv2EQdAAIZ2V0Q2xhc3NzcQB+AAw8YLPKdAACbmVzcQB+AAziWFmvdAACZXFzcQB+AAyAe9B2dAACIyNzcQB+AAyMHzwpdAAIZmluYWxpemVzcQB+AAxhwP4YdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AB11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHZzcQB+AGl0AANBbnlzcQB+AG1zcQB+AHB1cQB+AHMAAAACc3EAfgB1dAAFc2NhbGFxAH4AfHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawd8ljHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9wYXdlbC9Ecm9wYm94L0RTUi92Ni9zcGFyay1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU2BmV9NfOc1b9jy0fUXlHIZp6C50=
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+vTxvgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyh+XXHQABm5vdGlmeXNxAH4ADMyvpox0AAR3YWl0c3EAfgAMJ7mi/nQADSRhc0luc3RhbmNlT2ZzcQB+AAyFfqyBdAAQUGlwZWxpbmVTb2x1dGlvbnNxAH4ADIViyW50AAZlcXVhbHNzcQB+AAyYVB/JdAAMYXNJbnN0YW5jZU9mc3EAfgAMiVm2jXQADHN5bmNocm9uaXplZHNxAH4ADC7JLC10AA0kaXNJbnN0YW5jZU9mc3EAfgAMAgJ4LnQACW5vdGlmeUFsbHNxAH4ADL4AbcR0AAxpc0luc3RhbmNlT2ZzcQB+AAwfO4awdAAOY3JlYXRlUGlwZWxpbmVzcQB+AAyfNKO/dAACPT1zcQB+AAxj4vL+dAAFY2xvbmVzcQB+AAygb/C3dAAIdG9TdHJpbmdzcQB+AAxgx85SdAACIT1zcQB+AAwg779GdAAIZ2V0Q2xhc3NzcQB+AAz1xqnidAACbmVzcQB+AAyhM7DTdAACZXFzcQB+AAzMVZ8ldAACIyNzcQB+AAz9PXOOdAAIZmluYWxpemVzcQB+AAysxJvzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHZzcQB+AGl0AANBbnlzcQB+AG1zcQB+AHB1cQB+AHMAAAACc3EAfgB1dAAFc2NhbGFxAH4AfHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawd8ljHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9wYXdlbC9Ecm9wYm94L0RTUi92Ni9zcGFyay1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdOq5uSweBaAhYEJaT7WQRI87Fno=
+external apis:
+0 items
+source infos:
+3 items
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/App.scala -> 
+AAAAAAAAAAA=
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineExercise.scala -> 
+AAAAAAAAAAA=
+/home/pawel/Dropbox/DSR/v6/spark-scala/src/main/scala/PipelineSolution.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsHQgmJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3Bhd2VsL0Ryb3Bib3gvRFNSL3Y2L3NwYXJrLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsHUtjp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3Bhd2VsL0Ryb3Bib3gvRFNSL3Y2L3NwYXJrLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsHaIkl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3Bhd2VsL0Ryb3Bib3gvRFNSL3Y2L3NwYXJrLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsHfJYx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3Bhd2VsL0Ryb3Bib3gvRFNSL3Y2L3NwYXJrLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

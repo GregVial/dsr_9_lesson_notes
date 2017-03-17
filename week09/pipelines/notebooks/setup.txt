@@ -1,0 +1,10 @@
+1. install pyenv https://github.com/yyuu/pyenv
+
+2. pyenv install miniconda3-latest
+
+3. source activate miniconda3-latest
+
+4. conda env create -f environment.yml
+
+5. echo "miniconda3-latest/envs/dsr" > .python-version
+
